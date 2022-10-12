@@ -29,7 +29,8 @@
 
 # [관련 이미지 & 동영상]
 ## 이미지 <hr>
-https://user-images.githubusercontent.com/101154001/195365871-fcbdd7a9-d4e7-4c1a-b635-c6678e629b8d.png
+(https://user-images.githubusercontent.com/101154001/195365871-fcbdd7a9-d4e7-4c1a-b635-c6678e629b8d.png)
+
 ## 동영상 <hr>
 (https://www.youtube.com/watch?v=ZNB80iDaEAQ&t=198s)
 
