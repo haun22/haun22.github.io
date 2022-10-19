@@ -42,14 +42,14 @@
 ![image](https://user-images.githubusercontent.com/101154001/195365871-fcbdd7a9-d4e7-4c1a-b635-c6678e629b8d.png)
 
 ## 동영상 <hr>
-![Video Label](https://youtu.be/ZNB80iDaEAQ)(https://www.youtube.com/watch?v=ZNB80iDaEAQ&t=198s)
+![Video Label](https://user-images.githubusercontent.com/101154001/196812527-eaebf9cb-0190-4527-a827-ebdac283bfd9.jpg)(https://www.youtube.com/watch?v=ZNB80iDaEAQ&t=198s)
 
 
 
 
 # [대표 이미지]
 
-
+![image](https://user-images.githubusercontent.com/101154001/196812873-cf7671b4-6d87-401e-9b58-c927a5a0565c.jpg)
 
 # [컨셉과 대표이미지 기반 작품묘사]
 ### 대표이미지 기반 
@@ -97,33 +97,31 @@ What?! : 이게 왜? 라는 말이 나올정도로 어려운 게임을 만들고
 
 
 ## [만들게 된 배경]
-<hr>
+
 디 엔드 이즈나이라는 게임과 점프킹이라는 게임을 예전에 해보았던 기억이 났는데 간단한 조작법이지만 그로 인한 난이도는 결코 간단하지
 않다는것이 매력적으로 다가와서 이런 게임을 나도 만들면 어떨까? 생각이 들어서 만들게 되었습니다.
 ## [카메라 관점]
-<hr>
+
 2d뷰를 사용하고 2d 스탑뷰로 인해 멀미증세 완화
 
 
 
 
 # 3. 미적요소
-## [디자인] <hr>
-image
-
-카툰랜더링적 그래픽을 추구할것이나 아직 정해진바는 없음 
+## [디자인] 
+![image](https://user-images.githubusercontent.com/101154001/196813806-e7c3c5c3-edaf-4550-bd82-84914bf75775.jpg)
 
 
-[컬러] <hr>
-image
+## [컬러] 
+![image](https://user-images.githubusercontent.com/101154001/196813626-3601400a-295a-4d71-9a8e-6b1264d7b286.jpg)
 
-무채색 계열을 사용
-## [음향] <hr> 
+
+## [음향]  
 몽환적인 느낌과는 다르게 역설적으로 신나는 음악을 채용할까 생각중이지만
 몽환적인 느낌의 음악도 괜찮을거 같아서 고민중
 
 # 4. 기술
-## [플레이어] <hr> 
+## [플레이어]  
 키보드 방향키 → ←를 사용하고 점프키 space키를 사용함.
 
 # 게임 시스템 디자인
