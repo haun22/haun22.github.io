@@ -42,7 +42,7 @@
 ![image](https://user-images.githubusercontent.com/101154001/195365871-fcbdd7a9-d4e7-4c1a-b635-c6678e629b8d.png)
 
 ## 동영상 <hr>
-![Video Label](https://user-images.githubusercontent.com/101154001/196812527-eaebf9cb-0190-4527-a827-ebdac283bfd9.jpg)(https://www.youtube.com/watch?v=ZNB80iDaEAQ&t=198s)
+[![video label](https://user-images.githubusercontent.com/101154001/196812527-eaebf9cb-0190-4527-a827-ebdac283bfd9.jpg)](https://www.youtube.com/watch?v=ZNB80iDaEAQ&t=198s)
 
 
 
