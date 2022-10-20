@@ -129,7 +129,7 @@ What?! : 이게 왜? 라는 말이 나올정도로 어려운 게임을 만들고
 
 ## 1.게임오브젝트 분해 
   
-  |연번|오브젝트 이름|오브젝트 이미지|
+  | 연번 | 오브젝트 이름 | 오브젝트 이미지 |
   |:---:|:---:|:---:|
   |1|player|![image](https://user-images.githubusercontent.com/101154001/196831116-28c464a9-4b86-4fc2-91cb-82bc7856c10d.png)|
   |2|timer|![image](https://user-images.githubusercontent.com/101154001/196831215-69bfea7c-e02d-4ca4-b57a-b62a6fca8f82.png)|
