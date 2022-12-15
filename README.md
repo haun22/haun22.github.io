@@ -336,6 +336,8 @@ end버튼은 게임을 종료함.
 
 # 프로토타입 개발 요구 사항 (6주개발)
 
+![image](https://user-images.githubusercontent.com/101154001/207743911-c91765e5-09a7-4585-957d-07145462e398.png)
+
 ## 1주차 캐릭터 이동구현
 
 ~캐릭터 이동에 필요한 player script (100)~
